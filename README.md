@@ -1,5 +1,5 @@
 # Horiseon Web App
-This is the web site for Horrison Marketing Agency how offers 
+This is the web site for Horrison Marketing Agency who offers: 
 1. Search Engine Optimization. (SEO) 
 2. Online Reputation Management to give you the control over what potential customers see.
 3. Social Media Marketing to find the right markets and increase your lead generation.
